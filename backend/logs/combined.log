@@ -1,0 +1,308 @@
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 15:23:35"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-26 15:23:35"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 15:23:35"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 15:27:47"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-26 15:27:47"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 15:27:47"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 15:34:16"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-26 15:34:16"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 15:34:16"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 15:35:22"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-26 15:35:22"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 15:35:22"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/","service":"backupmatrix","timestamp":"2025-11-26 15:36:18"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","ip":"127.0.0.1","level":"error","message":"Error occurred","method":"GET","path":"/","service":"backupmatrix","stack":"Error: ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","timestamp":"2025-11-26 15:36:18"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/health","service":"backupmatrix","timestamp":"2025-11-26 15:36:26"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 15:39:43"}
+{"level":"info","message":"BackupMatrix server running on http://localhost:3000","service":"backupmatrix","timestamp":"2025-11-26 15:39:43"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 15:39:43"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 15:45:46"}
+{"level":"info","message":"BackupMatrix server running on http://localhost:3000","service":"backupmatrix","timestamp":"2025-11-26 15:45:46"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 15:45:46"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/","service":"backupmatrix","timestamp":"2025-11-26 15:45:57"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","ip":"::1","level":"error","message":"Error occurred","method":"GET","path":"/","service":"backupmatrix","stack":"Error: ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","timestamp":"2025-11-26 15:45:57"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/health","service":"backupmatrix","timestamp":"2025-11-26 15:46:18"}
+{"ip":"::1","level":"info","message":"Request","method":"POST","path":"/api/v1/auth/login","service":"backupmatrix","timestamp":"2025-11-26 15:46:58"}
+{"level":"info","message":"User logged in","role":"admin","service":"backupmatrix","timestamp":"2025-11-26 15:46:59","username":"Admin"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 15:46:59"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 15:47:10"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-26 15:47:21"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 15:47:34"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 15:49:54"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 15:49:56"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 15:54:05"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 15:54:08"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 16:00:25"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 16:04:52"}
+{"ip":"::1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 16:06:25"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 17:07:07"}
+{"level":"info","message":"BackupMatrix server running on http://localhost:3000","service":"backupmatrix","timestamp":"2025-11-26 17:07:07"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 17:07:07"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-26 19:39:47"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-26 19:39:47"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-26 19:39:47"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 19:41:43"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 19:41:46"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 19:41:47"}
+{"ip":"192.168.88.22","level":"info","message":"Request","method":"GET","path":"/","service":"backupmatrix","timestamp":"2025-11-26 19:42:45"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","ip":"192.168.88.22","level":"error","message":"Error occurred","method":"GET","path":"/","service":"backupmatrix","stack":"Error: ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","timestamp":"2025-11-26 19:42:45"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/auth/login","service":"backupmatrix","timestamp":"2025-11-26 20:01:41"}
+{"ip":"127.0.0.1","level":"warn","message":"Failed login attempt","service":"backupmatrix","timestamp":"2025-11-26 20:01:41","username":"admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/auth/login","service":"backupmatrix","timestamp":"2025-11-26 20:01:51"}
+{"level":"info","message":"User logged in","role":"admin","service":"backupmatrix","timestamp":"2025-11-26 20:01:51","username":"Admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 20:01:51"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 20:01:55"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 20:01:58"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 20:10:06"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 20:38:34"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 20:39:21"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 20:49:06"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:01:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:03:19"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:14:55"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:18:33"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:18:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-26 21:18:44"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-26 21:19:05"}
+{"filename":"backup-report-1764184745392.pdf","level":"info","message":"PDF generated","service":"backupmatrix","timestamp":"2025-11-26 21:19:06"}
+{"from":"2025-11-19","level":"info","message":"PDF export requested","service":"backupmatrix","timestamp":"2025-11-26 21:19:07","to":"2025-11-26","user":"Admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:19:27"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:19:29"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:20:26"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:20:29"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:20:31"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:20:57"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:20:59"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:21:01"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:21:04"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:21:05"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:21:16"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:21:18"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:21:23"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:22:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:23:16"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:23:19"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:23:20"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:23:23"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-26 21:23:33"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:23:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 21:48:14"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-26 22:25:57"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:15:21"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:18:41"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:22:55"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:23:00"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:23:10"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"GET","path":"/","service":"backupmatrix","timestamp":"2025-11-27 01:24:34"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","ip":"192.168.88.41","level":"error","message":"Error occurred","method":"GET","path":"/","service":"backupmatrix","stack":"Error: ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","timestamp":"2025-11-27 01:24:34"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"GET","path":"/health","service":"backupmatrix","timestamp":"2025-11-27 01:24:48"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"GET","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:25:30"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","ip":"192.168.88.41","level":"error","message":"Error occurred","method":"GET","path":"/api/v1/report","service":"backupmatrix","stack":"Error: ENOENT: no such file or directory, stat 'C:\\Users\\mchekanyanza\\Documents\\Software Projects\\BackupMatrix\\backend\\frontend\\dist\\index.html'","timestamp":"2025-11-27 01:25:30"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:31:53"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:31:58"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:32:08"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:32:24"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:38:02"}
+{"ip":"127.0.0.1","level":"warn","message":"API request without key","path":"/report","service":"backupmatrix","timestamp":"2025-11-27 01:38:02"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:38:34"}
+{"ip":"127.0.0.1","level":"warn","message":"API request without key","path":"/report","service":"backupmatrix","timestamp":"2025-11-27 01:38:34"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 01:42:54"}
+{"level":"info","message":"New server registered","serverName":"ampitgt","service":"backupmatrix","shopName":"AMP Shop","timestamp":"2025-11-27 01:42:54"}
+{"eventId":"1","level":"info","message":"Backup event recorded","serverId":1,"serverName":"ampitgt","service":"backupmatrix","status":"success","timestamp":"2025-11-27 01:42:54"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:43:14"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:43:32"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 01:43:41"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 01:44:04"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 01:44:36"}
+{"filename":"backup-report-1764200676611.pdf","level":"info","message":"PDF generated","service":"backupmatrix","timestamp":"2025-11-27 01:44:37"}
+{"from":"2025-11-20","level":"info","message":"PDF export requested","service":"backupmatrix","timestamp":"2025-11-27 01:44:38","to":"2025-11-27","user":"Admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:44:53"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:53:09"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:53:26"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:53:34"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:55:01"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:56:16"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:56:26"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:57:20"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 01:57:29"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 01:57:32"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:57:43"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 01:57:47"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 01:58:01"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 02:05:18"}
+{"eventId":"2","level":"info","message":"Backup event recorded","serverId":1,"serverName":"ampitgt","service":"backupmatrix","status":"success","timestamp":"2025-11-27 02:05:18"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:05:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 02:05:40"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 02:05:42"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 02:05:55"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:06:06"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:06:52"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 02:06:54"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 02:06:56"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:07:01"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 02:25:24"}
+{"eventId":"3","level":"info","message":"Backup event recorded","serverId":1,"serverName":"ampitgt","service":"backupmatrix","status":"success","timestamp":"2025-11-27 02:25:24"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 02:35:29"}
+{"eventId":"4","level":"info","message":"Backup event recorded","serverId":1,"serverName":"ampitgt","service":"backupmatrix","status":"success","timestamp":"2025-11-27 02:35:29"}
+{"ip":"192.168.88.41","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 02:39:31"}
+{"eventId":"5","level":"info","message":"Backup event recorded","serverId":1,"serverName":"ampitgt","service":"backupmatrix","status":"success","timestamp":"2025-11-27 02:39:31"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:39:53"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 02:40:04"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:40:09"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 02:40:18"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 02:40:24"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 02:41:10"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:41:58"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 02:42:16"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 02:42:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:42:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 02:59:06"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:12:00"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 08:21:22"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 08:21:22"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 08:21:22"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/auth/login","service":"backupmatrix","timestamp":"2025-11-27 08:23:25"}
+{"level":"info","message":"User logged in","role":"admin","service":"backupmatrix","timestamp":"2025-11-27 08:23:25","username":"Admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:23:25"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:23:32"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:23:33"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:26:19"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:26:19"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:26:20"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:26:20"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:29:16"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:29:19"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:29:20"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:29:20"}
+{"ip":"10.216.0.44","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 08:29:33"}
+{"level":"info","message":"New server registered","serverName":"AMP-SERVER-1","service":"backupmatrix","shopName":"AMP Shop","timestamp":"2025-11-27 08:29:33"}
+{"eventId":"6","level":"info","message":"Backup event recorded","serverId":2,"serverName":"AMP-SERVER-1","service":"backupmatrix","status":"success","timestamp":"2025-11-27 08:29:33"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:29:51"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:30:01"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/2","service":"backupmatrix","timestamp":"2025-11-27 08:30:03"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:30:10"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:30:26"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:30:28"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:30:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:30:42"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:30:48"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:30:53"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/2","service":"backupmatrix","timestamp":"2025-11-27 08:30:55"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:31:03"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:31:09"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 08:31:24"}
+{"filename":"backup-report-1764225084791.pdf","level":"info","message":"PDF generated","service":"backupmatrix","timestamp":"2025-11-27 08:31:26"}
+{"from":"2025-11-20","level":"info","message":"PDF export requested","service":"backupmatrix","timestamp":"2025-11-27 08:31:26","to":"2025-11-27","user":"Admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:31:43"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:31:44"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:32:16"}
+{"ip":"10.216.0.44","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 08:32:59"}
+{"eventId":"7","level":"info","message":"Backup event recorded","serverId":2,"serverName":"AMP-SERVER-1","service":"backupmatrix","status":"success","timestamp":"2025-11-27 08:32:59"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:33:17"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:33:21"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/2","service":"backupmatrix","timestamp":"2025-11-27 08:33:26"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:33:32"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:33:32"}
+{"ip":"10.216.0.251","level":"info","message":"Request","method":"POST","path":"/api/v1/report","service":"backupmatrix","timestamp":"2025-11-27 08:35:38"}
+{"eventId":"8","level":"info","message":"Backup event recorded","serverId":1,"serverName":"ampitgt","service":"backupmatrix","status":"success","timestamp":"2025-11-27 08:35:38"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:35:43"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:35:47"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:35:52"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:35:58"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 08:36:04"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 08:36:06"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:36:19"}
+{"ip":"10.216.0.251","level":"info","message":"Request","method":"GET","path":"/health","service":"backupmatrix","timestamp":"2025-11-27 08:41:46"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:45:01"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:45:25"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:46:38"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 08:47:24"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 08:47:24"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 08:47:24"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:47:33"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:47:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:47:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:47:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:47:36"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 08:47:37"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:47:45"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 08:49:36"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 09:05:35"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 09:05:35"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 09:05:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:05:45"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:05:50"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:05:57"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:06:04"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:06:11"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 09:12:25"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 09:12:25"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 09:12:25"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:12:34"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:12:41"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/2","service":"backupmatrix","timestamp":"2025-11-27 09:12:45"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:12:50"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:12:53"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 09:18:48"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 09:18:48"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 09:18:48"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:18:57"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:18:59"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:19:02"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:19:25"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:19:52"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:20:10"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:20:22"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers/1","service":"backupmatrix","timestamp":"2025-11-27 09:20:25"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:20:30"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:20:30"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:20:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:20:46"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 09:29:39"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 09:29:39"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 09:29:39"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:29:49"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:29:56"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:29:57"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:29:58"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:30:00"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:30:10"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:30:26"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:30:32"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 09:30:35"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"PDF generation error","service":"backupmatrix","timestamp":"2025-11-27 09:30:35"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"Export PDF error","service":"backupmatrix","timestamp":"2025-11-27 09:30:35"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 09:30:38"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"PDF generation error","service":"backupmatrix","timestamp":"2025-11-27 09:30:38"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"Export PDF error","service":"backupmatrix","timestamp":"2025-11-27 09:30:38"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/excel","service":"backupmatrix","timestamp":"2025-11-27 09:30:41"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"Excel generation error","service":"backupmatrix","timestamp":"2025-11-27 09:30:41"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"Export Excel error","service":"backupmatrix","timestamp":"2025-11-27 09:30:41"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 09:30:48"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"PDF generation error","service":"backupmatrix","timestamp":"2025-11-27 09:30:48"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"Export PDF error","service":"backupmatrix","timestamp":"2025-11-27 09:30:48"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:30:52"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:30:54"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:30:55"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:31:00"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 09:31:02"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"PDF generation error","service":"backupmatrix","timestamp":"2025-11-27 09:31:02"}
+{"error":"Cannot read properties of undefined (reading 'status')","level":"error","message":"Export PDF error","service":"backupmatrix","timestamp":"2025-11-27 09:31:02"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 09:32:59"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 09:32:59"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 09:32:59"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:33:10"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/pdf","service":"backupmatrix","timestamp":"2025-11-27 09:33:12"}
+{"filename":"backup-report-1764228792565.pdf","level":"info","message":"PDF generated","service":"backupmatrix","timestamp":"2025-11-27 09:33:13"}
+{"from":"2025-11-20","level":"info","message":"PDF export requested","service":"backupmatrix","timestamp":"2025-11-27 09:33:14","to":"2025-11-27","user":"Admin"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"POST","path":"/api/v1/reports/export/excel","service":"backupmatrix","timestamp":"2025-11-27 09:33:23"}
+{"filename":"backup-report-1764228803596.xlsx","level":"info","message":"Excel generated","service":"backupmatrix","timestamp":"2025-11-27 09:33:23"}
+{"from":"2025-11-20","level":"info","message":"Excel export requested","service":"backupmatrix","timestamp":"2025-11-27 09:33:23","to":"2025-11-27","user":"Admin"}
+{"level":"info","message":"Database connected successfully","service":"backupmatrix","timestamp":"2025-11-27 09:35:37"}
+{"level":"info","message":"BackupMatrix server running on http://0.0.0.0:3000","service":"backupmatrix","timestamp":"2025-11-27 09:35:37"}
+{"level":"info","message":"Environment: production","service":"backupmatrix","timestamp":"2025-11-27 09:35:37"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:35:58"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/dashboard","service":"backupmatrix","timestamp":"2025-11-27 09:35:58"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:35:59"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/servers","service":"backupmatrix","timestamp":"2025-11-27 09:36:01"}
+{"ip":"127.0.0.1","level":"info","message":"Request","method":"GET","path":"/api/v1/reports/matrix","service":"backupmatrix","timestamp":"2025-11-27 09:36:07"}
